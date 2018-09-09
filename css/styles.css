@@ -76,6 +76,11 @@ ol li a{
   padding: 20px;
   font-weight: bold
 }
+.projects img{
+  max-width: 20%;
+  max-height: 20%;
+  padding: 20px;
+}
 
 
 
