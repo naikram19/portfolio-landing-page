@@ -77,9 +77,19 @@ ol li a{
   font-weight: bold
 }
 .projects img{
-  max-width: 20%;
-  max-height: 20%;
+  max-width: 200;
+  max-height: 600;
   padding: 20px;
+}
+.projects{
+  display: inline-block;
+  border: 2px solid rgb(189, 141, 141);
+  padding: 6px;
+  margin: 20px;
+  background-color: rgba(184, 184, 165, 0.582);
+  max-width:250px;
+  max-height: 500px;
+  
 }
 
 
