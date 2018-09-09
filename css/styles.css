@@ -71,7 +71,11 @@ ol li a{
   text-decoration: none;
   text-align: center;
 }
-
+.contactscontent{
+  text-align: center;
+  padding: 20px;
+  font-weight: bold
+}
 
 
 
