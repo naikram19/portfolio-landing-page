@@ -53,6 +53,24 @@ ul li a{
   text-align: center;
   shape-outside: padding-box,
 }
+.icon{
+  max-width: 35px;
+  max-height: 35px;
+}
+ol{
+  width: 80%;
+  margin: 0 auto;
+  padding: o;
+}
+ol li{
+  list-style: none;
+  display:inline-block;
+  padding: 20px;
+}
+ol li a{
+  text-decoration: none;
+  text-align: center;
+}
 
 
 
