@@ -91,7 +91,22 @@ ol li a{
   max-height: 500px;
   
 }
-
+.contactscontent{
+  background-color: rgba(184, 184, 165, 0.582);
+  padding: 20px;  
+}
+.contactsicon{
+  display: inline-block;
+  padding: 6px;
+  margin: 20px;
+  background-color: rgba(184, 184, 165, 0.582);
+  max-width: inherit;
+  min-height: inherit;
+  shape-outside: padding-box;
+}
+.aboutmeopacity{
+  background-color: rgba(184, 184, 165, 0.582);
+}
 
 
 
