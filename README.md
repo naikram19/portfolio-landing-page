@@ -14,5 +14,6 @@
 I have used html and css
 ## Support and contact details
 naikram1999@gmail.com
+https://naikram19.github.io/portfolio-landing-page/
 ### License
-open licence
+MIT
